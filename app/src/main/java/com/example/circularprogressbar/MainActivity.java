@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 progressBar.setVisibility(View.GONE);
             }
-        },6000);
+        },3650);
     }
 
     private void init() {
